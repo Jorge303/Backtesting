@@ -1,0 +1,13 @@
+# Backtesting
+Building an intuitive trading backtesting platform for traders without coding knowledge. 
+
+Schritte die dazu notwendig sind:
+  1. Verstehen wie man in Python gute Backtests durchführt.
+  2. Eine kleine Datenbank an Backtestingcode für die bekantesten Trading-Startegien entwickeln
+  3. Welche Sachen sollten Nutzer einstellen können?
+    a. Zeitraum
+    b. Basiswert
+    c. Strategie
+    d. Parameter der Strategie (welche Länge haben SMAs bspw.)
+    e. long short only
+  4. Wie baut man diese datenbank zusammen hinter ein intuitives Interface für Trader ohne Codingerfahrung   
