@@ -11,3 +11,8 @@ Schritte die dazu notwendig sind:
     d. Parameter der Strategie (welche Länge haben SMAs bspw.)
     e. long short only
   4. Wie baut man diese datenbank zusammen hinter ein intuitives Interface für Trader ohne Codingerfahrung   
+
+Wichtige Punkte, die möglich sein sollten:
+  1. Interaktiver Chart wie bei Tradeview
+  2. Gute Übersicht über Profit/Loss und weitere Werte
+  3. 
