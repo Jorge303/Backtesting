@@ -17,10 +17,11 @@ Wichtige Punkte, die möglich sein sollten:
   2. Gute Übersicht über Profit/Loss und weitere Werte
   3. 
 
+
 Trading Strats, die wir in Punkt 1 und 2 sammeln:
     1. SMA Crossovers
     2. RSI
     3. MACD
     4. Bollinger Bands
     
-Am Einfachsten hinter ein Userinterface zu packen, ist wahrscheinlich die SMA Strategie. Da gibt man als ersten Schritt nur die Option die Länge der SMAs einzustellen (200, 50, 20, etc.)    
+Link zum Miroboard: https://miro.com/welcomeonboard/c1F1eHFJbFAyQmxGQm9wSjdoWk5sZzgzemh2ckxqdjlsMXBtaFNFaXVJdWQ5Q2RrSjdncmFNdEVDVVh4ZlIySXwzNDU4NzY0NTE4MTg2MjI3MDM5fDI=?share_link_id=571662949072 
