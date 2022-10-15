@@ -16,3 +16,11 @@ Wichtige Punkte, die möglich sein sollten:
   1. Interaktiver Chart wie bei Tradeview
   2. Gute Übersicht über Profit/Loss und weitere Werte
   3. 
+
+Trading Strats, die wir in Punkt 1 und 2 sammeln:
+    1. SMA Crossovers
+    2. RSI
+    3. MACD
+    4. Bollinger Bands
+    
+Am Einfachsten hinter ein Userinterface zu packen, ist wahrscheinlich die SMA Strategie. Da gibt man als ersten Schritt nur die Option die Länge der SMAs einzustellen (200, 50, 20, etc.)    
